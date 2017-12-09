@@ -4,7 +4,7 @@
 
 Based on https://spring.io/guides/gs/accessing-data-rest/ 
 
-** This project allows you to create a simple RES API in minutes!**
+**This project allows you to create a simple RES API in minutes!**
 
 Your routes: 
 
@@ -17,7 +17,7 @@ http://localhost:8080/persons/search/findByLastName?name=the_last_name
 
 This appication comes pre-loaded with Frodo Baggins, Oliver Twist and Snow White. 
 
-** Update **
+**Update**
 Added Spring Security to this project: 
 1. Added spring-security-starter dependency to pom.xml 
 2. Ran the application. 

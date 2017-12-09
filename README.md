@@ -18,6 +18,7 @@ http://localhost:8080/persons/search/findByLastName?name=the_last_name
 This appication comes pre-loaded with Frodo Baggins, Oliver Twist and Snow White. 
 
 **Update**
+
 Added Spring Security to this project: 
 1. Added spring-security-starter dependency to pom.xml 
 2. Ran the application. 

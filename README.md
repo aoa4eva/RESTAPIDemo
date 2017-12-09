@@ -29,7 +29,7 @@ To access the routes:
 
 curl -u user:password_provided_in_console http://localhost:8080/persons - shows a list of all persons 
 
-Include database authentication or OAuth2 to make properly accessible. 
+Include database or OAuth2 authentication to make properly accessible. 
 
 
 

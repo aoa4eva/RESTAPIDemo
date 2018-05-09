@@ -21,7 +21,7 @@ This appication comes pre-loaded with Frodo Baggins, Oliver Twist and Snow White
 
 Added Spring Security to this project: 
 1. Added spring-security-starter dependency to pom.xml 
-2. Ran the application. 
+2. Run the application. 
 
 When you try to access routes without authentication, you get an error message. 
 
